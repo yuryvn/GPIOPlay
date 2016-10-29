@@ -1,0 +1,1 @@
+pscp -v -r -load pi x:\OneDrive\phd\NTNU\stand\programming_control\Pi\Python\GPIOplay\ 192.168.42.83:~/GitProgs/GPIOScripts
